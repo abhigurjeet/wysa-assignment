@@ -2,8 +2,8 @@
 
 <h2>Collections:</h2>
 
-<h3>Users:</h3>
-<p>Fields: UserId, Nickname</p>
+<h3>User:</h3>
+<p>Fields: nickname, password</p>
 
 <h3>SleepAssessments:</h3>
 <p>Fields: AssessmentId, UserId, Questions (Array of Objects), Date</p>
